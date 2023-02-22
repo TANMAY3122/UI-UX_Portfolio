@@ -12,4 +12,5 @@ My website was designed using the following technologies:
 
 here's preview of my webdesign...
 
-![UI_UX cv](https://user-images.githubusercontent.com/84329566/220566785-e5161c8a-4279-4fc3-a4b6-16f9dfb2f862.png)
+
+![UI_UX cv](https://user-images.githubusercontent.com/84329566/220569420-3ba0f837-35bf-4184-8103-91b5f632fd17.png)
